@@ -4,12 +4,16 @@ body {
 }
 
 h1 {
-    font-size: 50;
+    font-size: 50px;
 
 }
 
 h2 {
     font-size: 40px;
+}
+
+p {
+    color: dimgray;
 }
 
 .orange-color {
@@ -23,12 +27,13 @@ h2 {
 
 .half-width {
     width: 50%;
-    padding: 2%;
+    padding: 3%;
+
 
 }
 
 .half-width img {
-    width: 80%;
+    width: 75%;
 
 }
 
@@ -37,6 +42,8 @@ h2 {
     padding: 10px 40px;
     background-image: linear-gradient(orange, tomato);
     border-radius: 5%;
+    color: white;
+    font-weight: 700;
 }
 
 .top-banner {
